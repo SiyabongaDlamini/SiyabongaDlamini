@@ -60,7 +60,7 @@ I believe the next great leap in healthcare won't come from a lab alone — it w
 
 ## 🚀 Ventures & Founding Work
 
-### 🔬 BlankWale — *Open Source Biomedical AI Research Assistant*
+### 🔬 BlankWhale — *Open Source Biomedical AI Research Assistant*
 > **Founder & Lead Developer**
 
 **BlankWale** is an open-source AI assistant purpose-built for **biomedical research**. It helps researchers, clinicians, and engineers navigate complex scientific literature, run AI-assisted analysis, and accelerate discoveries in medical science.
@@ -68,7 +68,7 @@ I believe the next great leap in healthcare won't come from a lab alone — it w
 - 🧬 AI-driven biomedical literature search & synthesis
 - 📊 Research assistant for medical imaging and signal analysis
 - 🤝 Open-source — built for the global scientific community
-- 🔗 [github.com/blankwale](https://github.com) *(Open Source — Contributions Welcome!)*
+- 🔗 [github.com/blankwhale](https://github.com) *(Open Source — Contributions Welcome!)*
 
 ---
 
@@ -220,7 +220,7 @@ print(me.say_hello())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Siyabonga%20Dlamini%20%7C%20blankwale%20%7C%20motherbooking&fontSize=14&fontColor=888888&fontAlignY=70" width="100%"/>
 
 ### 🌐 *Searchable Keywords for the Web*
-`Siyabonga Dlamini` · `Siyabonga Majaha Dlamini` · `Siyabonga KB Dlamini` · `lugal_siyabonga` · `BlankWale` · `BlankWale Biomedical AI` · `MotherBooking` · `motherbooking.com` · `Biomedical Engineer Cyprus` · `ShadowSpeak` · `Cyprus International University Biomedical` · `Medical Imaging AI` · `Open Source Biomedical Research`
+`Siyabonga Dlamini` · `Siyabonga Majaha Dlamini` · `Siyabonga KB Dlamini` · `lugal_siyabonga` · `BlankWhale` · `BlankWhale Biomedical AI` · `MotherBooking` · `motherbooking.com` · `Biomedical Engineer Cyprus` · `ShadowSpeak` · `Cyprus International University Biomedical` · `Medical Imaging AI` · `Open Source Biomedical Research`
 
 *Made with ❤️ and caffeine — somewhere between a lab coat and a keyboard.*
 
