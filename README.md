@@ -24,7 +24,7 @@ My work lives at the intersection of **medicine, mathematics, and machine learni
 
 I believe the next great leap in healthcare will come from engineers who deeply understand the human body, and biologists who can write software. I'm trying to be both.
 
-> *"Control what you can, accept what you can't."*
+> *"IF YOU HAVE ENOUGH REASONS, YOU CAN DO THE MOST INCREDIBLE THINGS ."*
 
 ---
 
