@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm **Siyabonga KB Dlamini** — a Biomedical Engineer and AI researcher based in **Nicosia, Cyprus**.
+I'm **Siyabonga Majaha Dlamini** — a Biomedical Engineer and AI researcher and Co-Founder of SouthOrbit Aerospace based in **Nicosia, Cyprus**.
 
 My work lives at the intersection of **medicine, mathematics, and machine learning**. I build systems that help people understand biology through code — from medical imaging pipelines to AI-assisted research tooling.
 
