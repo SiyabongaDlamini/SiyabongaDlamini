@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=180&section=header&text=Siyabonga%20M.%20Dlamini&fontSize=42&fontColor=e0e0ff&fontAlignY=38&desc=Biomedical%20Engineer%20·%20AI%20Researcher%20·%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:16213e&height=200&section=header&text=Siyabonga%20M.%20Dlamini&fontSize=42&fontColor=e0e0ff&fontAlignY=38&desc=Biomedical%20Engineering%20%7C%20Computational%20Neuroscience%20%7C%20AI&descAlignY=58&descSize=16&animation=fadeIn" alt="Siyabonga M. Dlamini" width="100%"/>
 
 <a href="https://linkedin.com/in/siyabonga-dlamini-82aa41179">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7EB8F7&center=true&vCenter=true&width=580&lines=Biomedical+Engineer+%7C+AI+Researcher;Bridging+Medicine+%26+Machine+Learning;Building+Tools+That+Matter;Open+Source+Contributor;Nicosia%2C+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7EB8F7&center=true&vCenter=true&width=640&height=40&lines=Biomedical+Engineering+Student;Computational+Neuroscience+%26+AI;Modelling+Biological+Intelligence;Neurotechnology+%26+Neural+Dynamics;Open+Source+Contributor;Nicosia%2C+Cyprus" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SiyabongaDlamini&style=flat-square&color=7EB8F7&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyabonga-dlamini-82aa41179)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/lugal_siyabonga)
+<img src="https://komarev.com/ghpvc/?username=SiyabongaDlamini&style=flat-square&color=7EB8F7&label=Profile+Views" alt="Profile Views"/>
+<a href="https://linkedin.com/in/siyabonga-dlamini-82aa41179"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/lugal_siyabonga"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
@@ -18,67 +18,92 @@
 
 ## About Me
 
-I'm **Siyabonga Majaha Dlamini** — a Biomedical Engineer and AI researcher and Co-Founder of SouthOrbit Aerospace based in **Nicosia, Cyprus**.
+I'm **Siyabonga Majaha Dlamini**, a Biomedical Engineering student with a strong interest in **computational neuroscience**, **artificial intelligence** and **biological systems**.
 
-My work lives at the intersection of **medicine, mathematics, and machine learning**. I build systems that help people understand biology through code — from medical imaging pipelines to AI-assisted research tooling.
+I'm particularly fascinated by the mechanisms through which the human brain processes information, learns, adapts and develops increasingly complex patterns of intelligence.
 
-I believe the next great leap in healthcare will come from engineers who deeply understand the human body, and biologists who can write software. I'm trying to be both.
+My interests lie at the intersection of **neuroscience, mathematics, computational modelling and machine learning**. I enjoy exploring how computational methods can help us understand biological processes, simulate physiological systems and develop technologies inspired by the human brain.
 
-> *"IF YOU HAVE ENOUGH REASONS, YOU CAN DO THE MOST INCREDIBLE THINGS ."*
-
----
-
-## 🔬 Research & Focus Areas
-
-- **Medical Imaging** — deep learning for diagnostic image analysis (MRI, CT, histopathology)
-- **Biomedical Signal Processing** — ECG, EEG, and physiological signal interpretation with ML
-- **Clinical AI** — building reliable, explainable models for healthcare decision support
-- **Bioinformatics** — computational approaches to genomic and proteomic data
+> *"If you have enough reasons, you can do the most incredible things."*
 
 ---
 
-## 🛠️ Technical Stack
+## Research Interests
+
+| Area | Focus |
+|---|---|
+| **Computational Neuroscience** | Neural dynamics, spiking models, population activity |
+| **Neurotechnology** | Brain-computer interfaces, neural signal decoding |
+| **Bio-inspired AI** | Artificial neural networks, biologically inspired learning rules |
+| **Adaptive Intelligence** | Neural plasticity, self-organisation, emergent behaviour |
+| **Systems Modelling** | Computational models of physiological and biological systems |
+| **Biomedical Data** | Medical imaging, bioinformatics, biomedical signal processing |
+
+```python
+class Researcher:
+    name = "Siyabonga M. Dlamini"
+    field = "Biomedical Engineering"
+    interests = [
+        "Computational Neuroscience",
+        "Brain-Computer Interfaces",
+        "Biologically Inspired Learning",
+        "Neural Plasticity & Self-Organisation",
+        "Computational Modelling",
+        "Biomedical Signal Processing",
+    ]
+    goal = "Understand biological intelligence, then model, simulate and learn from it."
+```
+
+---
+
+## Technical Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 
-**AI / ML / Biomedical**
+**AI / ML / Scientific Computing**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 
 **Dev Tools & Infrastructure**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 
 ---
 
+## Education
 
-
-## 🎓 Education
-
-**B.Sc. Biomedical Engineering** — Cyprus International University, Nicosia, Cyprus
+**B.Sc. Biomedical Engineering**, Cyprus International University, Nicosia, Cyprus
 
 ---
 
-## 🤝 Let's Connect
+## Mission
 
-I'm always open to collaborating on research, open-source biomedical tools, or anything at the edge of medicine and technology.
+I believe understanding biological intelligence is one of the most fascinating scientific challenges of our time. I'm interested in contributing to that understanding through **research, experimentation, mathematics and open-source development**.
+
+> **My goal is to understand biological intelligence and explore how we can model, simulate and learn from it.**
+
+---
+
+## Let's Connect
+
+Open to collaborating on research, open-source neuroscience and biomedical tools, or anything at the edge of brain science and technology.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siyabonga%20Dlamini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siyabonga-dlamini-82aa41179)
-[![Instagram](https://img.shields.io/badge/Instagram-@lugal__siyabonga-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lugal_siyabonga)
+<a href="https://linkedin.com/in/siyabonga-dlamini-82aa41179"><img src="https://img.shields.io/badge/LinkedIn-Siyabonga%20Dlamini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://instagram.com/lugal_siyabonga"><img src="https://img.shields.io/badge/Instagram-@lugal__siyabonga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
@@ -86,8 +111,8 @@ I'm always open to collaborating on research, open-source biomedical tools, or a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0f&height=100&section=footer" alt="" width="100%"/>
 
-*Made with focus — somewhere between a lab coat and a keyboard.*
+<sub><i>Made with focus, somewhere between a lab coat and a keyboard.</i></sub>
 
 </div>
