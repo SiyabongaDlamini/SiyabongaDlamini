@@ -63,22 +63,7 @@ I believe the next great leap in healthcare will come from engineers who deeply 
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SiyabongaDlamini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiyabongaDlamini&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SiyabongaDlamini&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🎓 Education
 
